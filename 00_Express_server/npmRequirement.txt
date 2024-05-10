@@ -1,0 +1,5 @@
+express //create a server
+body-parser//form handling at server side
+cors //cross browser activities
+
+npm install express body-parser cors --save
